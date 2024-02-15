@@ -1,4 +1,4 @@
-package skole;
+package week4.skole;
 
 import Config.HibernateConfig;
 import jakarta.persistence.EntityManager;

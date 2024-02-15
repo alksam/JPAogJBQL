@@ -1,16 +1,16 @@
 package Config;
 
-import Employee.Employee;
-import GLS.PackageGLS;
-import Unicorn.Unicorn;
+import week4.Employee.Employee;
+import week4.GLS.PackageGLS;
+import week4.Unicorn.Unicorn;
 import jakarta.persistence.EntityManagerFactory;
 import lombok.NoArgsConstructor;
 import org.hibernate.SessionFactory;
 import org.hibernate.boot.registry.StandardServiceRegistryBuilder;
 import org.hibernate.cfg.Configuration;
 import org.hibernate.service.ServiceRegistry;
-import point.Point;
-import skole.Student;
+import week4.point.Point;
+import week4.skole.Student;
 
 import java.util.Properties;
 

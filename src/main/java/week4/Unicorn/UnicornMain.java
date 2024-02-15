@@ -1,4 +1,4 @@
-package Unicorn;
+package week4.Unicorn;
 
 public class UnicornMain
     {

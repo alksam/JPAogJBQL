@@ -1,4 +1,4 @@
-package point;
+package week4.point;
 
 
 import Config.HibernateConfig;

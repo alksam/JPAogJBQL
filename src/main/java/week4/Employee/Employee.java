@@ -1,4 +1,4 @@
-package Employee;
+package week4.Employee;
 
 import jakarta.persistence.*;
 import lombok.Getter;

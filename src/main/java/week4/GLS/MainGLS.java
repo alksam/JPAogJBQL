@@ -1,4 +1,4 @@
-package GLS;
+package week4.GLS;
 
 import Config.HibernateConfig;
 import jakarta.persistence.EntityManagerFactory;

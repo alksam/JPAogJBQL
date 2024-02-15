@@ -1,4 +1,4 @@
-package point;
+package week4.point;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

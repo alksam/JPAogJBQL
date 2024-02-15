@@ -1,7 +1,6 @@
-package skole;
+package week4.skole;
 
 import Config.HibernateConfig;
-import jakarta.persistence.EntityManager;
 import jakarta.persistence.EntityManagerFactory;
 
 import java.util.List;

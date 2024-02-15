@@ -1,4 +1,4 @@
-package Unicorn;
+package week4.Unicorn;
 
 import Config.HibernateConfig;
 import jakarta.persistence.*;

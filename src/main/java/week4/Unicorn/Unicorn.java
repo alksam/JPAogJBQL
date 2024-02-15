@@ -1,4 +1,4 @@
-package Unicorn;
+package week4.Unicorn;
 
 import jakarta.persistence.*;
 import lombok.Getter;

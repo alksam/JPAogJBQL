@@ -4,6 +4,8 @@ import jakarta.persistence.EntityManager;
 import jakarta.persistence.EntityManagerFactory;
 import jakarta.persistence.Persistence;
 import org.junit.jupiter.api.*;
+import week4.GLS.PackageDAO;
+import week4.GLS.PackageGLS;
 
 import static org.junit.jupiter.api.Assertions.*;
 

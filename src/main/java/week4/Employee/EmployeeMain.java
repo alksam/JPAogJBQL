@@ -1,14 +1,9 @@
-package Employee;
+package week4.Employee;
 
 
 
-import jakarta.persistence.EntityManager;
 import jakarta.persistence.EntityManagerFactory;
-import jakarta.persistence.NamedQueries;
-import jakarta.persistence.Query;
 import Config.HibernateConfig;
-
-import java.util.List;
 
 public class EmployeeMain {
 

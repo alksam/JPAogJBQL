@@ -1,9 +1,8 @@
-package GLS;
+package week4.GLS;
 
 import Config.HibernateConfig;
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.EntityManagerFactory;
-import jakarta.persistence.Persistence;
 
 public class PackageDAO {
     private EntityManager entityManager;
